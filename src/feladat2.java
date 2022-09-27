@@ -13,7 +13,7 @@ public class feladat2 {
         sc.nextLine();
         int Sz= sc.nextInt();
 
-        int T= ((M*100) / 20)*((Sz*100)/20);
+        double T= ((M*100) / 22)*((Sz*100)/22);
 
         System.out.printf("A falra " +T+ " db 20x20 cm nagyságú csempe fér ");
 
