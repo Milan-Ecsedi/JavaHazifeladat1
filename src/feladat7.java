@@ -5,7 +5,7 @@ public class feladat7 {
 
         Scanner sc=new Scanner(System.in);
 
-        System.out.printf("Írja be hogy hanyadik hónapban járunk:");
+        System.out.printf("Írja be hogy hanyadik hónapban járunk: ");
         int honap= sc.nextInt();
         if ((honap >= 1 && honap <=2) ||  honap==12 ){
 
