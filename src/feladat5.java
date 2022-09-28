@@ -14,7 +14,7 @@ public class feladat5 {
         System.out.printf("Adja meg a téglalap (b) oldalát:");
 
         b = sc.nextDouble();
-sc.nextLine();
+        sc.nextLine();
         System.out.printf("Adjon meg egy utasítást [K , T]: ");
         action= sc.nextLine();
 
