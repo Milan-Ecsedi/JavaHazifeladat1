@@ -15,6 +15,7 @@ public class feladat11 {
 
                 System.out.printf(i+ "; ");
 
+
             }
 
 
